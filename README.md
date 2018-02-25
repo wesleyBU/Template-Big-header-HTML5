@@ -1,5 +1,5 @@
 <h2>Template Big Header</h2>
-<p>Essa uma template gratuita de desenvolvimento aberto. Feita atualmente em HTML5, CSS, Javascript</p>
+<p>Essa é uma template gratuita de desenvolvimento aberto. Feita atualmente em HTML5, CSS, Javascript</p>
 <p>Qualquer um que queira contribuir é bem vindo. Seja você designs, web developers que quer participar de
   algum projeto para testar ou adquirir conhecimentos</p>
 
@@ -13,4 +13,4 @@
 </p>
 
 <h3>Versão 0.1.1</h3>
-<a href="">Pré vizualização</a>
+<a href="https://wesleybu.github.io/Template-Big-header-HTML5/">Pré vizualização</a>
