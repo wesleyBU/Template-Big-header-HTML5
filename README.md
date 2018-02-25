@@ -1,5 +1,5 @@
 <h2>Template Big Header</h2>
-<p>Essa é uma template gratuita de desenvolvimento aberto. Feita atualmente em HTML5, CSS, Javascript</p>
+<p>Essa é uma template gratuita de desenvolvimento aberto. Feita atualmente em HTML5, CSS, Javascript, <a href="">fontawesome</a>, <a href="https://getbootstrap.com/">bootstrap</a></p>
 <p>Qualquer um que queira contribuir é bem vindo. Seja você designs, web developers que quer participar de
   algum projeto para testar ou adquirir conhecimentos</p>
 
