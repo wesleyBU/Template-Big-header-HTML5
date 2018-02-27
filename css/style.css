@@ -36,7 +36,12 @@ main > section {
   width: 100%;
 }
 main > section > .row {
-  height: 30%;
+  height: 40%;
+  justify-content: space-evenly;
+  white-space: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+  display: block;;
 }
 main > section > .row > div {
   height: 100%;
@@ -50,6 +55,7 @@ main > section > .row > div {
   border-style: solid;
   border-width: 1px;
   overflow: hidden;
+  display: inline-block;
 }
 
 .card-post > a > figure {
